@@ -1,3 +1,5 @@
+Dynamodb nodejs for local Dynamodb instance
+
 start local instance:
 docker-compose up
 
